@@ -1,0 +1,13 @@
+*.exe
+*.o
+cmdline.c
+minic.y.h
+source-gen.h
+minic.y.output
+minic.y.c
+mcc.exe.stackdump
+mcc.exe
+minic.verbose.txt
+cmdline.lex.c
+lexbison
+out.asm
